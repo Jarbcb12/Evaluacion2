@@ -1,0 +1,29 @@
+.formulario{
+   height: 600px; 
+   border: black;
+}
+body{
+   background-image: url();
+}
+.tabla-clientes{
+   font-size: 12px;
+}
+#carouselExampleFade{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+nav{
+   background-color: 0E2954;
+}
+
+.budu{
+   background-color: 0E2954;
+}
+
+.row{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
